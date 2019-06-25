@@ -3270,8 +3270,8 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7f09005e
 			public const int image = 2131296350;
 			
-			// aapt resource value: 0x7f0900c9
-			public const int imageButton1 = 2131296457;
+			// aapt resource value: 0x7f0900c8
+			public const int imageButton1 = 2131296456;
 			
 			// aapt resource value: 0x7f0900bf
 			public const int info = 2131296447;
@@ -3435,8 +3435,8 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7f090074
 			public const int radio = 2131296372;
 			
-			// aapt resource value: 0x7f0900c8
-			public const int radioButton1 = 2131296456;
+			// aapt resource value: 0x7f0900c9
+			public const int radioButton1 = 2131296457;
 			
 			// aapt resource value: 0x7f090049
 			public const int right = 2131296329;

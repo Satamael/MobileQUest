@@ -3159,6 +3159,9 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F0C002F
 			public const int expand_activities_button = 2131492911;
 			
+			// aapt resource value: 0x7F020003
+			public const int fab = 2130837507;
+			
 			// aapt resource value: 0x7F0C0031
 			public const int fill = 2131492913;
 			
@@ -3168,8 +3171,8 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F0C0009
 			public const int forever = 2131492873;
 			
-			// aapt resource value: 0x7F020004
-			public const int frameLayout1 = 2130837508;
+			// aapt resource value: 0x7F020005
+			public const int frameLayout1 = 2130837509;
 			
 			// aapt resource value: 0x7F0C0034
 			public const int ghost_view = 2131492916;
@@ -3345,8 +3348,8 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F0C0053
 			public const int radio = 2131492947;
 			
-			// aapt resource value: 0x7F020005
-			public const int radioButton1 = 2130837509;
+			// aapt resource value: 0x7F020007
+			public const int radioButton1 = 2130837511;
 			
 			// aapt resource value: 0x7F0C0054
 			public const int right = 2131492948;
@@ -3417,8 +3420,8 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F0C006A
 			public const int shortcut = 2131492970;
 			
-			// aapt resource value: 0x7F020002
-			public const int sliding_tabs = 2130837506;
+			// aapt resource value: 0x7F020004
+			public const int sliding_tabs = 2130837508;
 			
 			// aapt resource value: 0x7F0C006B
 			public const int smallLabel = 2131492971;
@@ -3492,8 +3495,8 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F0C0082
 			public const int title_template = 2131492994;
 			
-			// aapt resource value: 0x7F020003
-			public const int toolbar = 2130837507;
+			// aapt resource value: 0x7F020002
+			public const int toolbar = 2130837506;
 			
 			// aapt resource value: 0x7F0C0083
 			public const int top = 2131492995;
@@ -3702,6 +3705,12 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F0F001B
 			public const int abc_select_dialog_material = 2131689499;
 			
+			// aapt resource value: 0x7F030002
+			public const int activity_main = 2130903042;
+			
+			// aapt resource value: 0x7F030003
+			public const int content_main = 2130903043;
+			
 			// aapt resource value: 0x7F0F001C
 			public const int design_bottom_navigation_item = 2131689500;
 			
@@ -3819,11 +3828,11 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F0F003C
 			public const int support_simple_spinner_dropdown_item = 2131689532;
 			
-			// aapt resource value: 0x7F030002
-			public const int Tabbar = 2130903042;
+			// aapt resource value: 0x7F030004
+			public const int Tabbar = 2130903044;
 			
-			// aapt resource value: 0x7F030003
-			public const int Toolbar = 2130903043;
+			// aapt resource value: 0x7F030005
+			public const int Toolbar = 2130903045;
 			
 			// aapt resource value: 0x7F0F003D
 			public const int tooltip = 2131689533;

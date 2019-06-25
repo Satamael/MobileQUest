@@ -3,7 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>Prestigio PSP7510DUO</SelectedDevice>
     <DefaultDevice>VisualStudio_android-23_arm_tablet</DefaultDevice>
-    <AndroidDesignerPreferredDevice>pixel</AndroidDesignerPreferredDevice>
-    <AndroidDesignerPreferredTheme>Theme.DeviceDefault</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredDevice>pixel_xl</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault.NoActionBar.Fullscreen</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

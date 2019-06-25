@@ -3391,6 +3391,7 @@ containing a value of this type.
         public static final int fill_vertical=0x7f090047;
         public static final int fixed=0x7f090053;
         public static final int forever=0x7f090057;
+        public static final int frameLayout1=0x7f0900c7;
         public static final int ghost_view=0x7f09000a;
         public static final int home=0x7f090005;
         public static final int homeAsUp=0x7f090020;
@@ -3398,6 +3399,7 @@ containing a value of this type.
         public static final int icon_group=0x7f0900c3;
         public static final int ifRoom=0x7f090039;
         public static final int image=0x7f09005e;
+        public static final int imageButton1=0x7f0900c8;
         public static final int info=0x7f0900bf;
         public static final int italic=0x7f090058;
         public static final int item_touch_helper_previous_elevation=0x7f090000;
@@ -3407,9 +3409,9 @@ containing a value of this type.
         public static final int line3=0x7f090018;
         public static final int listMode=0x7f09001c;
         public static final int list_item=0x7f090060;
-        public static final int masked=0x7f0900c9;
+        public static final int masked=0x7f0900cc;
         public static final int media_actions=0x7f0900b8;
-        public static final int message=0x7f0900c7;
+        public static final int message=0x7f0900ca;
         public static final int middle=0x7f090030;
         public static final int mini=0x7f090052;
         public static final int mr_art=0x7f0900a4;
@@ -3452,6 +3454,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f090006;
         public static final int progress_horizontal=0x7f090007;
         public static final int radio=0x7f090074;
+        public static final int radioButton1=0x7f0900c9;
         public static final int right=0x7f090049;
         public static final int right_icon=0x7f0900c0;
         public static final int right_side=0x7f0900bc;
@@ -3518,7 +3521,7 @@ containing a value of this type.
         public static final int up=0x7f090009;
         public static final int useLogo=0x7f090025;
         public static final int view_offset_helper=0x7f090016;
-        public static final int visible=0x7f0900c8;
+        public static final int visible=0x7f0900cb;
         public static final int volume_item_container=0x7f0900aa;
         public static final int withText=0x7f09003b;
         public static final int wrap_content=0x7f09002d;

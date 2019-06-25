@@ -3399,7 +3399,7 @@ containing a value of this type.
         public static final int icon_group=0x7f0900c3;
         public static final int ifRoom=0x7f090039;
         public static final int image=0x7f09005e;
-        public static final int imageButton1=0x7f0900c9;
+        public static final int imageButton1=0x7f0900c8;
         public static final int info=0x7f0900bf;
         public static final int italic=0x7f090058;
         public static final int item_touch_helper_previous_elevation=0x7f090000;
@@ -3454,7 +3454,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f090006;
         public static final int progress_horizontal=0x7f090007;
         public static final int radio=0x7f090074;
-        public static final int radioButton1=0x7f0900c8;
+        public static final int radioButton1=0x7f0900c9;
         public static final int right=0x7f090049;
         public static final int right_icon=0x7f0900c0;
         public static final int right_side=0x7f0900bc;
