@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MobileQest"
+             x:Class="MobileQest.MainPage"
+             x:Name="PageMain"
+             BackgroundImage="CoM">
+
+
+    <StackLayout x:Name="SL" BackgroundColor="Purple">
+
+        <!-- <ImageCell Text="Хуй Пизда Залупа" ImageSource="C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android" /-->
+        <!-- Place new controls here -->
+        <Image x:Name="amage" Source="CoM"
+       VerticalOptions="FillAndExpand"
+       HorizontalOptions="FillAndExpand" />
+      
+        
+        <Label Text="Бред ебаный, хуита невнятная!" HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Button Text="Кнопка тупая" Clicked="Button_Clicked"/>
+        <Label x:Name="Zalupen" Text="Залупный текст" />
+        <Button x:Name="Back"
+            Text="Back"
+        Clicked="back_Click"/>
+    </StackLayout>
+
+</ContentPage>
