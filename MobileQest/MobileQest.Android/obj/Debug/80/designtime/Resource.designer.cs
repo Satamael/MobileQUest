@@ -3171,9 +3171,6 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F0C0009
 			public const int forever = 2131492873;
 			
-			// aapt resource value: 0x7F020005
-			public const int frameLayout1 = 2130837509;
-			
 			// aapt resource value: 0x7F0C0034
 			public const int ghost_view = 2131492916;
 			
@@ -3188,9 +3185,6 @@ namespace MobileQest.Droid
 			
 			// aapt resource value: 0x7F0C0038
 			public const int image = 2131492920;
-			
-			// aapt resource value: 0x7F020006
-			public const int imageButton1 = 2130837510;
 			
 			// aapt resource value: 0x7F0C000C
 			public const int info = 2131492876;
@@ -3347,9 +3341,6 @@ namespace MobileQest.Droid
 			
 			// aapt resource value: 0x7F0C0053
 			public const int radio = 2131492947;
-			
-			// aapt resource value: 0x7F020007
-			public const int radioButton1 = 2130837511;
 			
 			// aapt resource value: 0x7F0C0054
 			public const int right = 2131492948;

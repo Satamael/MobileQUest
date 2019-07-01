@@ -2,29 +2,43 @@
 
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:MobileQest"
              x:Class="MobileQest.MainPage"
              x:Name="PageMain"
-             BackgroundImage="CoM">
+            >
 
+    <Grid x:Name="gr">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
 
-    <StackLayout x:Name="SL" BackgroundColor="Purple">
-
-        <!-- <ImageCell Text="Хуй Пизда Залупа" ImageSource="C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android" /-->
-        <!-- Place new controls here -->
-        <Image x:Name="amage" Source="CoM"
-       VerticalOptions="FillAndExpand"
-       HorizontalOptions="FillAndExpand" />
-      
-        
-        <Label Text="Бред ебаный, хуита невнятная!" HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-
-        <Button Text="Кнопка тупая" Clicked="Button_Clicked"/>
-        <Label x:Name="Zalupen" Text="Залупный текст" />
-        <Button x:Name="Back"
-            Text="Back"
-        Clicked="back_Click"/>
-    </StackLayout>
+        <Button x:Name="ans1"
+    Text="jnvvd" 
+        HorizontalOptions="End"
+        VerticalOptions="End"
+            />
+        <Button x:Name="ans2"
+    Text="rggt" 
+        HorizontalOptions="Start"
+        VerticalOptions="End"
+            />
+        <Button x:Name="ans3"
+                Margin="1, 10, 200, 80"
+               
+        Text="vvd" 
+        HorizontalOptions="Start"
+        VerticalOptions="End"
+            />
+        <Button 
+            x:Name="ans4" 
+            Text="ffvggf"
+            Clicked="Ans4_Clicked"
+            Margin="0, 10, 0, 80"
+            HorizontalOptions="End"
+            VerticalOptions="End"
+            />
+    </Grid>
 
 </ContentPage>
