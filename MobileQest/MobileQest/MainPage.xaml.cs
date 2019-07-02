@@ -30,9 +30,14 @@ namespace MobileQest
          
         }
 
-        private void Ans4_Clicked(object sender, SelectedItemChangedEventArgs e)
+        private void Start_Clicked(object sender, SelectedItemChangedEventArgs e)
         {
             perehod(sender, e);
+        }
+
+        private void End_Clicked(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.GetCurrentProcess().CloseMainWindow();
         }
     }
 }

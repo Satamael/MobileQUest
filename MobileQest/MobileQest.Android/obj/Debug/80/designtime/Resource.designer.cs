@@ -3853,6 +3853,9 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7F040005
 			public const int MyBackgraund = 2130968581;
 			
+			// aapt resource value: 0x7F040006
+			public const int Thumbs = 2130968582;
+			
 			static Mipmap()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();

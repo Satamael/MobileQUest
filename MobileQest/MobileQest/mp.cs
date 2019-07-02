@@ -14,7 +14,7 @@ namespace MobileQest
 			Content = new StackLayout {
 				Children =
                 {
-					new Label { Text = "Welcome to Xamarin.Forms!" }
+					new Label { Text = "Я буду стрелять!" }
 				}
 			};
 		}

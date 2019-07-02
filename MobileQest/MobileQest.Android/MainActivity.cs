@@ -21,5 +21,12 @@ namespace MobileQest.Droid
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }
+
+        
+
+        public void exitApp()
+        {
+            (Xamarin.Forms.Forms.Context as Activity).Finish();
+        }
     }
 }

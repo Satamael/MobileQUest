@@ -4,6 +4,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobileQest.MainPage"
              x:Name="PageMain"
+             BackgroundImage="CoM.jpg"
             >
 
     <Grid x:Name="gr">
@@ -14,29 +15,21 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
 
-        <Button x:Name="ans1"
-    Text="jnvvd" 
-        HorizontalOptions="End"
-        VerticalOptions="End"
-            />
-        <Button x:Name="ans2"
-    Text="rggt" 
-        HorizontalOptions="Start"
-        VerticalOptions="End"
-            />
-        <Button x:Name="ans3"
-                Margin="1, 10, 200, 80"
-               
-        Text="vvd" 
-        HorizontalOptions="Start"
-        VerticalOptions="End"
-            />
+   
         <Button 
-            x:Name="ans4" 
-            Text="ffvggf"
-            Clicked="Ans4_Clicked"
+            x:Name="Start" 
+            Text="Стартуем!"
+            Clicked="Start_Clicked"
             Margin="0, 10, 0, 80"
-            HorizontalOptions="End"
+            HorizontalOptions="Center"
+            VerticalOptions="End"
+            />
+
+        <Button 
+            x:Name="End" 
+            Text="Ну нахер"
+            Clicked="End_Clicked"
+            HorizontalOptions="Center"
             VerticalOptions="End"
             />
     </Grid>
