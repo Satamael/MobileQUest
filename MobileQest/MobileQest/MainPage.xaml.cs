@@ -15,9 +15,6 @@ namespace MobileQest
         public MainPage()
         {
             InitializeComponent();
-     
-
-       
     }
 
         async void perehod(object sender, SelectedItemChangedEventArgs e)
