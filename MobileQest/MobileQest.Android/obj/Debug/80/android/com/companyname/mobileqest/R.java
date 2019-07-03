@@ -3611,6 +3611,7 @@ containing a value of this type.
         public static final int tabbar=0x7f040042;
         public static final int toolbar=0x7f040043;
         public static final int tooltip=0x7f040044;
+        public static final int vovapidor=0x7f040045;
     }
     public static final class mipmap {
         public static final int icon=0x7f030000;

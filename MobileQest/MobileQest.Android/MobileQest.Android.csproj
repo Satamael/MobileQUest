@@ -102,5 +102,10 @@
   <ItemGroup>
     <AndroidResource Include="Resources\mipmap-hdpi\MyBackgraund.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\VovaPidor.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

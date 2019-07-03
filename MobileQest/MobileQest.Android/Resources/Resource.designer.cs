@@ -3927,6 +3927,9 @@ namespace MobileQest.Droid
 			// aapt resource value: 0x7f040044
 			public const int tooltip = 2130968644;
 			
+			// aapt resource value: 0x7f040045
+			public const int VovaPidor = 2130968645;
+			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
