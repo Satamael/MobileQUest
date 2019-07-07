@@ -104,4 +104,8 @@ C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\8
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\mipmap-hdpi\mybackgraund.jpg
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\drawable\com.jpg
+C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\drawable\geralt0.jpg
+C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\drawable\geralt1.jpg
+C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\drawable\geralt2.jpg
+C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\drawable\geralt3.jpg
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\linksrc\MobileQest.dll.mdb

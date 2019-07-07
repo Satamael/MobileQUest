@@ -4,6 +4,6 @@
     <SelectedDevice>Xiaomi Redmi Note 4</SelectedDevice>
     <DefaultDevice>VisualStudio_android-23_arm_tablet</DefaultDevice>
     <AndroidDesignerPreferredDevice>pixel_xl</AndroidDesignerPreferredDevice>
-    <AndroidDesignerPreferredTheme>Theme.DeviceDefault.NoActionBar.Fullscreen</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

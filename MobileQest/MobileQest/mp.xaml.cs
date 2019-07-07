@@ -14,7 +14,21 @@ namespace MobileQest
     {
         public mp()
         {
-            InitializeComponent();                   
+            InitializeComponent();
+            Lb.Text = MainPage.questions[MainPage.nom];
+            BackgroundImage = MainPage.images[MainPage.nom];
+            bt1.Text = MainPage.anses[MainPage.nom].strn;
+            bt2.Text = MainPage.anses[MainPage.nom+1].strn;
+            bt3.Text = MainPage.anses[MainPage.nom+2].strn;
+            bt4.Text = MainPage.anses[MainPage.nom+3].strn;
+
+        }
+
+        private void Bt4_Clicked(object sender, EventArgs e)
+        {
+            MainPage.nom++;
+            MainPage.ball += MainPage.anses[MainPage.nom + 3].ball;
+           
         }
     }
 }
