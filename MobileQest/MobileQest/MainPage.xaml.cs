@@ -133,7 +133,7 @@ namespace MobileQest
          
         }
 
-        private void Start_Clicked(object sender, SelectedItemChangedEventArgs e)
+        public void Start_Clicked(object sender, SelectedItemChangedEventArgs e)
         {
             perehod(sender, e);
 

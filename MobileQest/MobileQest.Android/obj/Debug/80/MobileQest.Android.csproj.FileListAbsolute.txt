@@ -108,4 +108,6 @@ C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\8
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\drawable\geralt1.jpg
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\drawable\geralt2.jpg
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\res\drawable\geralt3.jpg
+C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\bin\Debug\netstandard2.0\MobileQest.dll
+C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\bin\Debug\MobileQest.dll.mdb
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.Android\obj\Debug\80\linksrc\MobileQest.dll.mdb
