@@ -10,3 +10,4 @@ C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstanda
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.dll
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.pdb
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstandard2.0\mp.xaml.g.cs

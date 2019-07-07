@@ -18,6 +18,14 @@ namespace MobileQest
         {
             public String strn;
             public int ball;
+
+            public ans(string strn, int ball)
+            {
+                this.ball = ball;
+                this.strn = strn;
+            }
+
+
         }
 
         struct Paga
@@ -28,17 +36,18 @@ namespace MobileQest
         }
 
         public static int ball = 0;
+        public static int nom = 0;
 
-        List<Image> images = new List<Image>();
-        List<string> questions= new List<string>();
-        public List<string> answers = new List<string>();
-        List<ans> anses = new List<ans>();
+        public static List<Image> images = new List<Image>();
+        public static List<string> questions= new List<string>();
+        public static List<string> answers = new List<string>();
+        public static List<ans> anses = new List<ans>();
 
         List<mp> mps = new List<mp>();
 
        
 
-        void adding()
+       public static void adding()
         {
             //Пикчи
             images[0].Source = "geralt0.jpg";
@@ -53,7 +62,26 @@ namespace MobileQest
             questions[3] = "Ну как?";
 
             //ответы по 4
-          //   anses[0].strn=""
+            anses.Add(new ans("Поляк", 5));
+            anses.Add(new ans("Ведьмак", 10));
+            anses.Add(new ans("Курва!", 15));
+            anses.Add(new ans("Никак вы блядь не научитесь!", 20));
+
+            anses.Add(new ans("Бульба", 5));
+            anses.Add(new ans("Тарас", 10));
+            anses.Add(new ans("Пидорас", 15));
+            anses.Add(new ans("Боня", 20));
+
+            anses.Add(new ans("Трисс", 5));
+            anses.Add(new ans("Обе", 10));
+            anses.Add(new ans("Цири, хули нам", 15));
+            anses.Add(new ans("Йен", 20));
+
+            anses.Add(new ans("Заебись", 5));
+            anses.Add(new ans("Ведьмак", 10));
+            anses.Add(new ans("Курва!", 15));
+            anses.Add(new ans("Никак вы блядь не научитесь!", 20));
+
 
         }
 
