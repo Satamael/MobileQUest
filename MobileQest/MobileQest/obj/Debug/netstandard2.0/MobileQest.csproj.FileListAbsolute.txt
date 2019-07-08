@@ -11,3 +11,17 @@ C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstanda
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.pdb
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.csprojAssemblyReference.cache
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest\obj\Debug\netstandard2.0\mp.xaml.g.cs
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\bin\Debug\netstandard2.0\MobileQest.deps.json
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\bin\Debug\netstandard2.0\MobileQest.dll
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\bin\Debug\netstandard2.0\MobileQest.pdb
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\mp.xaml.g.cs
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.AssemblyInfoInputs.cache
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.AssemblyInfo.cs
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.dll
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\MobileQest.pdb
+C:\Users\Demon\source\repos\MobileQest3\MobileQest\MobileQest\obj\Debug\netstandard2.0\ResultPage.xaml.g.cs

@@ -3027,6 +3027,9 @@ namespace MobileQest.Droid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7F020005
+			public const int absoluteLayout1 = 2130837509;
+			
 			// aapt resource value: 0x7F0C0001
 			public const int action0 = 2131492865;
 			
@@ -3839,6 +3842,9 @@ namespace MobileQest.Droid
 			
 			// aapt resource value: 0x7F0F003D
 			public const int tooltip = 2131689533;
+			
+			// aapt resource value: 0x7F030006
+			public const int VovaPidor = 2130903046;
 			
 			static Layout()
 			{

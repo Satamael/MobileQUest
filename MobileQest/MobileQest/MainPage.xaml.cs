@@ -126,12 +126,7 @@ namespace MobileQest
                 mp mp = new mp();
                 await Navigation.PushModalAsync(mp);
         }
-        private void back_Click(object sender, EventArgs e)
-        {
-            //PageMain.BackgroundImage = "CoM";
-           // PageMain.BackgroundImage = amage.ToString();
-         
-        }
+       
 
         public void Start_Clicked(object sender, SelectedItemChangedEventArgs e)
         {

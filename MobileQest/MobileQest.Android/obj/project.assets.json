@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest.Android\\MobileQest.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.Android\\MobileQest.Android.csproj",
       "projectName": "MobileQest.Android",
-      "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest.Android\\MobileQest.Android.csproj",
+      "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.Android\\MobileQest.Android.csproj",
       "packagesPath": "C:\\Users\\Demon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest.Android\\obj\\",
+      "outputPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -813,8 +813,8 @@
       "frameworks": {
         "monoandroid80": {
           "projectReferences": {
-            "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest\\MobileQest.csproj": {
-              "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest\\MobileQest.csproj"
+            "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\MobileQest.csproj": {
+              "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\MobileQest.csproj"
             }
           }
         }
