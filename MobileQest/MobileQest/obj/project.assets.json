@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest\\MobileQest.csproj",
+      "projectUniqueName": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\MobileQest.csproj",
       "projectName": "MobileQest",
-      "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest\\MobileQest.csproj",
+      "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\MobileQest.csproj",
       "packagesPath": "C:\\Users\\Demon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest\\obj\\",
+      "outputPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

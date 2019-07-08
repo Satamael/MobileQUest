@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Name="MPpage"
+             x:Class="MobileQest.mp">
+            
+ 
+        <Grid><Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+        <Button x:Name="bt1"
+                   Text="th"
+                   HorizontalOptions="Start"
+                   VerticalOptions="End"  Clicked="Bt1_Clicked"/>
+        <Button x:Name="bt2"
+                   Text="rr"
+                   HorizontalOptions="End"
+                   VerticalOptions="End" Clicked="Bt2_Clicked"/>
+        <Button x:Name="bt3"
+                   Text="yy"
+                   HorizontalOptions="Start"
+                   VerticalOptions="End"
+                Margin="0,0,0,50" Clicked="Bt3_Clicked"/>
+        <Button x:Name="bt4"
+                   Text="rgr"
+                   HorizontalOptions="End"
+                   VerticalOptions="End"
+                Margin="0,0,0,50" Clicked="Bt4_Clicked"/>
+        <Label x:Name="Lb" Text="dsiohdfsuohshd" HorizontalOptions="Center"/>
+    </Grid>
+
+</ContentPage>
+    

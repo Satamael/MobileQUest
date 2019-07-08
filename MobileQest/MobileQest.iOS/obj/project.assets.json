@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest.iOS\\MobileQest.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.iOS\\MobileQest.iOS.csproj",
       "projectName": "MobileQest.iOS",
-      "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest.iOS\\MobileQest.iOS.csproj",
+      "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.iOS\\MobileQest.iOS.csproj",
       "packagesPath": "C:\\Users\\Demon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest\\MobileQest.csproj": {
-              "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest\\MobileQest\\MobileQest\\MobileQest.csproj"
+            "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\MobileQest.csproj": {
+              "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\MobileQest.csproj"
             }
           }
         }
