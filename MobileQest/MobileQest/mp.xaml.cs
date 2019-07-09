@@ -27,14 +27,14 @@ namespace MobileQest
 
         private void Bt4_Clicked(object sender, EventArgs e)
         {
-
-            if (MainPage.nom >= 3)
+            MainPage.ball += MainPage.anses[MainPage.nom * 4 + 3].ball;
+            if (MainPage.nom >= MainPage.Count - 1)
             {
                 result();
             }
             else
             {
-                MainPage.ball += MainPage.anses[MainPage.nom].ball;
+               
                 MainPage.nom++;
                 Lb.Text = MainPage.questions[MainPage.nom];
                 BackgroundImage = MainPage.images[MainPage.nom];
@@ -47,14 +47,14 @@ namespace MobileQest
 
         private void Bt3_Clicked(object sender, EventArgs e)
         {
-
-            if (MainPage.nom >= 3)
+            MainPage.ball += MainPage.anses[MainPage.nom * 4 + 2].ball;
+            if (MainPage.nom >= MainPage.Count - 1)
             {
                 result();
             }
             else
             {
-                MainPage.ball += MainPage.anses[MainPage.nom].ball;
+              
                 MainPage.nom++;
                 Lb.Text = MainPage.questions[MainPage.nom];
                 BackgroundImage = MainPage.images[MainPage.nom];
@@ -72,14 +72,14 @@ namespace MobileQest
         }
         private void Bt2_Clicked(object sender, EventArgs e)
         {
-
-            if (MainPage.nom >= 3)
+            MainPage.ball += MainPage.anses[MainPage.nom * 4 + 1].ball;
+            if (MainPage.nom >= MainPage.Count - 1)
             {
                 result();
             }
             else
             {
-                MainPage.ball += MainPage.anses[MainPage.nom].ball;
+                
                 MainPage.nom++;
                 Lb.Text = MainPage.questions[MainPage.nom];
                 BackgroundImage = MainPage.images[MainPage.nom];
@@ -92,15 +92,15 @@ namespace MobileQest
 
         private void Bt1_Clicked(object sender, EventArgs e)
         {
+            MainPage.ball += MainPage.anses[MainPage.nom * 4].ball;
 
-
-            if (MainPage.nom >= 3)
+            if (MainPage.nom >= MainPage.Count-1)
             {
                 result();
             }
             else
             {
-                MainPage.ball += MainPage.anses[MainPage.nom].ball;
+               
                 MainPage.nom++;
                 Lb.Text = MainPage.questions[MainPage.nom];
                 BackgroundImage = MainPage.images[MainPage.nom];

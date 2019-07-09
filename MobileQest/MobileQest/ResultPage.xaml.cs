@@ -16,16 +16,15 @@ namespace MobileQest
         public ResultPage()
         {
             InitializeComponent();
+            
             if (MainPage.ball >= 50)
             {
                 resLb.Text = "Лютик, блядь!";
 
-            }
-            else if ((MainPage.ball >= 30) && (MainPage.ball < 50))
+            } else if (MainPage.ball >= 30 && MainPage.ball<50)
             {
                 resLb.Text = "Ламберт, Ламберт....";
-            }
-            else if (MainPage.ball <= 30)
+            } else if (MainPage.ball <30)
             {
                 resLb.Text = "Никак вы, блядь, не научитесь";
             }
