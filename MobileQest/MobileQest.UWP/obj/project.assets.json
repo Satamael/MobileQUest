@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.UWP\\MobileQest.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Demon\\Source\\Repos\\Satamael\\MobileQUest\\MobileQest\\MobileQest.UWP\\MobileQest.UWP.csproj",
       "projectName": "MobileQest.UWP",
-      "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.UWP\\MobileQest.UWP.csproj",
+      "projectPath": "C:\\Users\\Demon\\Source\\Repos\\Satamael\\MobileQUest\\MobileQest\\MobileQest.UWP\\MobileQest.UWP.csproj",
       "packagesPath": "C:\\Users\\Demon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Demon\\Source\\Repos\\Satamael\\MobileQUest\\MobileQest\\MobileQest.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\MobileQest.csproj": {
-              "projectPath": "C:\\Users\\Demon\\source\\repos\\MobileQest3\\MobileQest\\MobileQest\\MobileQest.csproj"
+            "C:\\Users\\Demon\\Source\\Repos\\Satamael\\MobileQUest\\MobileQest\\MobileQest\\MobileQest.csproj": {
+              "projectPath": "C:\\Users\\Demon\\Source\\Repos\\Satamael\\MobileQUest\\MobileQest\\MobileQest\\MobileQest.csproj"
             }
           }
         }

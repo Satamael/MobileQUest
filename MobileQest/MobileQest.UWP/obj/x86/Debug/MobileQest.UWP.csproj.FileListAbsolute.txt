@@ -298,3 +298,4 @@ C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.UWP\obj\x86\Debug\q
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\Demon\source\repos\MobileQest\MobileQest\MobileQest.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Demon\Source\Repos\Satamael\MobileQUest\MobileQest\MobileQest.UWP\obj\x86\Debug\MobileQest.UWP.csprojAssemblyReference.cache

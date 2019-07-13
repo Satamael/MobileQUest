@@ -105,8 +105,8 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "MobileQest.Android.dll" comes first in this list. */
-		"MobileQest.Android.dll",
+		/* We need to ensure that "TestWezemin.dll" comes first in this list. */
+		"TestWezemin.dll",
 		"FormsViewGroup.dll",
 		"MobileQest.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
@@ -135,5 +135,5 @@ class MonoPackageManager_Resources {
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_26";
+	public static final String ApiPackageName = null;
 }
